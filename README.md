@@ -8,7 +8,7 @@
 │       ├── yolov3-tiny.weights
 │       └── yolov3.weights
 ```
-the weight file is available on the [baidu cloud drive]:(https://pan.baidu.com/s/1KdbwUU4fgpG_ywDsWkB3iw) code:4zva
+the weight file is available on the [baidu cloud drive](https://pan.baidu.com/s/1KdbwUU4fgpG_ywDsWkB3iw) code:4zva
 
 ## Model file
 ```bash
