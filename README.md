@@ -19,4 +19,4 @@ the weight file is available on the [baidu cloud drive](https://pan.baidu.com/s/
 │   ├── model.caffemodel
 │   └── sandwich_model.tar.gz
 ```
-the model file is available on the [baidu cloud drive]:() coda:
+the model file is available on the [baidu cloud drive](https://pan.baidu.com/s/1sS5BZMkhQuT7dAyWhUgPkQ) code:18ut
