@@ -1,0 +1,107 @@
+├── Dockerfile
+├── gabriel-start.sh
+├── images_feedback
+│   ├── big_gearing.jpg
+│   ├── bottom.jpg
+│   ├── lid.jpg
+│   ├── small_gearing.jpg
+│   └── whole.jpg
+├── img_test.txt
+├── instruction_pb2.py
+├── instruction.proto
+├── instructions.py
+├── launch_time_test.txt
+├── main.py
+├── model
+│   ├── faster_rcnn_test.pt
+│   ├── getting_model.md
+│   ├── labels.txt
+│   ├── model.caffemodel
+│   └── sandwich_model.tar.gz
+├── proc_test.txt
+├── __pycache__
+│   ├── cmd_yolo.cpython-38.pyc
+│   ├── instruction_pb2.cpython-38.pyc
+│   ├── instructions.cpython-38.pyc
+│   └── sandwich_engine.cpython-38.pyc
+├── PyTorch-YOLOv3
+│   ├── assets
+│   │   ├── dog.png
+│   │   ├── giraffe.png
+│   │   ├── messi.png
+│   │   └── traffic.png
+│   ├── config
+│   │   ├── coco.data
+│   │   ├── create_custom_model.sh
+│   │   ├── custom.data
+│   │   ├── yolov3.cfg
+│   │   └── yolov3-tiny.cfg
+│   ├── data
+│   │   ├── coco.names
+│   │   ├── custom
+│   │   │   ├── classes.names
+│   │   │   ├── images
+│   │   │   │   └── train.jpg
+│   │   │   ├── labels
+│   │   │   │   └── train.txt
+│   │   │   ├── train.txt
+│   │   │   └── valid.txt
+│   │   ├── get_coco_dataset.sh
+│   │   └── samples
+│   │       ├── dog.jpg
+│   │       ├── eagle.jpg
+│   │       ├── field.jpg
+│   │       ├── giraffe.jpg
+│   │       ├── herd_of_horses.jpg
+│   │       ├── messi.jpg
+│   │       ├── person.jpg
+│   │       ├── room.jpg
+│   │       └── street.jpg
+│   ├── LICENSE
+│   ├── output
+│   │   ├── dog.png
+│   │   ├── eagle.png
+│   │   ├── field.png
+│   │   ├── giraffe.png
+│   │   ├── herd_of_horses.png
+│   │   ├── messi.png
+│   │   ├── person.png
+│   │   ├── room.png
+│   │   └── street.png
+│   ├── poetry.lock
+│   ├── pyproject.toml
+│   ├── pytorchyolo
+│   │   ├── detect.py
+│   │   ├── __init__.py
+│   │   ├── models.py
+│   │   ├── __pycache__
+│   │   │   ├── detect.cpython-38.pyc
+│   │   │   ├── __init__.cpython-38.pyc
+│   │   │   └── models.cpython-38.pyc
+│   │   ├── test.py
+│   │   ├── train.py
+│   │   └── utils
+│   │       ├── augmentations.py
+│   │       ├── datasets.py
+│   │       ├── __init__.py
+│   │       ├── logger.py
+│   │       ├── loss.py
+│   │       ├── parse_config.py
+│   │       ├── __pycache__
+│   │       │   ├── datasets.cpython-38.pyc
+│   │       │   ├── __init__.cpython-38.pyc
+│   │       │   ├── parse_config.cpython-38.pyc
+│   │       │   ├── transforms.cpython-38.pyc
+│   │       │   └── utils.cpython-38.pyc
+│   │       ├── transforms.py
+│   │       └── utils.py
+│   ├── README.md
+│   └── weights
+│       ├── darknet53.conv.74
+│       ├── download_weights.sh
+│       ├── yolov3-tiny.weights
+│       └── yolov3.weights
+├── README.md
+├── requirements.txt
+└── sandwich_engine.py
+
